@@ -22,8 +22,8 @@ export default function Contact() {
           <div className="flex flex-col items-center bg-white dark:bg-gray-800 shadow-lg rounded-2xl p-6 space-y-3 hover:shadow-2xl transition duration-300">
             <FaPhone className="text-blue-600 dark:text-blue-400 text-3xl" />
             <h3 className="font-semibold text-lg">Phone</h3>
-            <a href="tel:+923001234567" className="text-blue-600 dark:text-blue-400 hover:underline">
-              +92 300 1234567
+            <a href="tel:+923036717744" className="text-blue-600 dark:text-blue-400 hover:underline">
+              +92 303 6717744
             </a>
           </div>
 
@@ -31,8 +31,8 @@ export default function Contact() {
           <div className="flex flex-col items-center bg-white dark:bg-gray-800 shadow-lg rounded-2xl p-6 space-y-3 hover:shadow-2xl transition duration-300">
             <FaEnvelope className="text-blue-600 dark:text-blue-400 text-3xl" />
             <h3 className="font-semibold text-lg">Email</h3>
-            <a href="mailto:hamza@example.com" className="text-blue-600 dark:text-blue-400 hover:underline">
-              hamza@example.com
+            <a href="mailto:hamzanaeem1024@gmail.com" className="text-blue-600 dark:text-blue-400 hover:underline">
+              hamzanaeem1024@gmail.com
             </a>
           </div>
 
@@ -41,12 +41,12 @@ export default function Contact() {
             <FaLinkedin className="text-blue-600 dark:text-blue-400 text-3xl" />
             <h3 className="font-semibold text-lg">LinkedIn</h3>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/hamza-naeem-30a906311/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 dark:text-blue-400 hover:underline"
             >
-              linkedin.com/in/yourusername
+              linkedin.com/HamzaNaeem
             </a>
           </div>
 
@@ -55,12 +55,12 @@ export default function Contact() {
             <FaGithub className="text-blue-600 dark:text-blue-400 text-3xl" />
             <h3 className="font-semibold text-lg">GitHub</h3>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/HamzaNaeem791"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 dark:text-blue-400 hover:underline"
             >
-              github.com/yourusername
+              github.com/HamzaNeem791
             </a>
           </div>
         </div>
