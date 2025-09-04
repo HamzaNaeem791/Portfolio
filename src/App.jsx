@@ -1,10 +1,10 @@
 import { Routes, Route } from "react-router-dom";
-import Navbar from "./components/Navbar/Navbar";
+import Navbar from "./Components/Navbar/Navbar.jsx";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
-import Projects from "./components/Projects/Projects";
+import Projects from "./Components/Projects/Projects";
 import Contact from "./components/Contact/Contact";
-import Footer from "./components/Footer/Footer";
+import Footer from "./Components/Footer/Footer";
 
 export default function App() {
   return (
